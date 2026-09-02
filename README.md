@@ -7,10 +7,14 @@ at the moment, this project is in planning. at the moment, the only framework is
 Current packages, Still debating what is and isnt wanted in this minimal base. 
 - Prebuilt cross-toolchain
 - Kernel
-- busybox + runit
+- busybox
+- runit
 - binutils
 - gcc 
-- make, xz, pkgconf
+- make
+- xz
+- pkgconf
 - openssl
 - curl
 - perl
+- bash
