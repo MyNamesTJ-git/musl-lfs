@@ -18,3 +18,6 @@ Current packages, Still debating what is and isnt wanted in this minimal base.
 - curl
 - perl
 - bash
+
+### Disclaimer
+Parts of this project are assisted by Anthropic's Claude
