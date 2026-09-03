@@ -1,5 +1,5 @@
 This will eventually become a project where I take the stable linux from scratch book, and make "interjections" where you replace steps to get a slimmer faster LFS build. This will mean replacing glibc with musl, replacing systemd with runit, and replacing gnu coreutils + a fair amount of other stuff with busybox. 
 
-This is currently written for LFS <insert-version>
+This is currently written for LFS (insert-version)
 
 You can access it at the [LFS Website](linuxfromscratch.org/lfs/read.html)
